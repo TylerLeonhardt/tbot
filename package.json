@@ -1,0 +1,17 @@
+{
+  "name": "tbot",
+  "version": "1.0.0",
+  "description": "This is a collection of bots for Telegram created by Tyler Leonhardt because... eh... why not? Currently, it can send you an amount of pug pictures and a picture of doge.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "author": "Tyler Leonhardt",
+  "license": "MIT",
+  "dependencies": {
+    "node-bing-api": "^2.4.0",
+    "node-telegram-bot-api": "^0.21.1",
+    "request": "^2.69.0"
+  }
+}
