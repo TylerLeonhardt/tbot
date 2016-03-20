@@ -10,7 +10,17 @@ Tbot can understand several commands:
 `/wowme` - such picture. wow. send doge.
 `/pugme` - get you a pug (optionally specify how many pugs you want: i.e.  `/pugme 5`)
 
-## Want to run the bot?
+## Want to use my bot?
+
+Here's the Telegram url:
+
+http://telegram.me/tylerbot_bot
+
+... all the good names were taken.
+
+NOTE: My bot might not always be awake.
+
+## Want to run your own version of the bot?
 
 It's pretty simple to get up and running but you will need a few things first...
 
