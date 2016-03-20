@@ -4,7 +4,13 @@ I downloaded Telegram and thought I'd give this whole bot thing a try... within 
 
 Telegram's API is A LOT of fun :)
 
-## Want to run my bot?
+## What's in the bot?
+
+Tbot can understand several commands:
+`/wowme` - such picture. wow. send doge.
+`/pugme` - get you a pug (optionally specify how many pugs you want: i.e.  `/pugme 5`)
+
+## Want to run the bot?
 
 It's pretty simple to get up and running but you will need a few things first...
 
