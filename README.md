@@ -18,7 +18,7 @@ http://telegram.me/tylerbot_bot
 
 ... all the good names were taken.
 
-NOTE: My bot might not always be awake.
+NOTE: My bot might not always be awake... Microsoft has a limit of 5000 API calls a month...soooo easy does it.
 
 ## Want to run your own version of the bot?
 

@@ -8,7 +8,7 @@ const request = require('request');
 
 //TelegramBot setup - https://github.com/yagop/node-telegram-bot-api
 const TelegramBot = require('node-telegram-bot-api');
-const bot = new TelegramBot(keys.Telegram.token, {polling: true});
+const bot = new TelegramBot(keys.Telegram.token, {polling: {timeout:2}});
 
 //Bing setup for image search - https://www.npmjs.com/package/node-bing-api
 const Bing = require('node-bing-api')({ accKey: keys.Bing.accKey });
